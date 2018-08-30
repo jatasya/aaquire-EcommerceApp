@@ -1,0 +1,16 @@
+{
+    "name": "EcommerceApp",
+    "description": "Node.js shopping cart with Stripe, PayPal and Authorize.net payments.",
+   
+    "keywords": [
+        "Shopping cart",
+        "express",
+        "mongodb",
+        "nodejs",
+        "ecommerce",
+        "paypal",
+        "lunr",
+        "cart",
+        "shopping"
+    ]
+}
